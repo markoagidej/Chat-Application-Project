@@ -1,0 +1,2 @@
+Install requirements with command "pip install -r requirements.txt"
+Run the app and follow the link. This is now your chat room that can be open on multiple browsers where they will all get a messege sent from any of them.
